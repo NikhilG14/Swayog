@@ -1,1 +1,2 @@
 # Swayog
+Swayog is project primarily focused on detecting the correctness of various yoga poses using Deep learning. It involves human pose detection for yoga poses which will then be used to train a Deep learning model with transfer learning approach (maybe CNN). The model is expected to learn the correct pose for a yoga asana. In addition, the application will also involve yoga recommendations for the user depending on what ailment the user intends to work on.
